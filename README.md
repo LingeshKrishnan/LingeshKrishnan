@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LingeshKrishnan
-- 👀 I’m interested in Web Technologies (Frontend, Backend, Ofcourse Fullstack Developer I am)
-- 🌱 I’m currently learning (MERN Stack, Php Frameworks, Devops Technologies everyday)
-- 💞️ I’m looking to collaborate on (Development of Web Technologies)
+- 👀 I’m interested in Web Technologies (Frontend, Backend,Of course Fullstack Developer I am)
+- 🌱 I’m into MERN Stack, PHP Frameworks, Devops Technologies
+- 💞️ I’m looking to collaborate on Development and where i can have more exposure
 - 📫 How to reach me (sundhar06@gmail.com)
 
 <!---
